@@ -5,4 +5,7 @@ Git tracks changes of files.
 My stupid boss still prefers SVN.
 Creating a new branch is quick AND simple.
 hello
+这是新功能哦
+2121
+
 
